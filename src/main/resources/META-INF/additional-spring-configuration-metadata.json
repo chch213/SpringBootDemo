@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "pagehelper.http.encoding.charset.enabled",
+      "type": "java.lang.String",
+      "description": "Description for pagehelper.http.encoding.charset.enabled."
+  }
+] }
